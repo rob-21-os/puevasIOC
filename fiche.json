@@ -3,12 +3,16 @@
     "id": 1,
     "nombre": "Ana",
     "email": "ana@correo.com",
-    "password": "1234"
+    "password": "1234",
+    "token": "TOKEN_DE_PRUEBA_123"
   },
   {
     "id": 2,
     "nombre": "Luis",
     "email": "luis@correo.com",
-    "password": "abcd"
+    "password": "abcd",
+    "token": "TOKEN_DE_PRUEBA_456"
   }
 ]
+
+
